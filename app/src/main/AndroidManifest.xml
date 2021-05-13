@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EDUCARE">
         <activity android:name=".musicx"></activity>
+        <activity android:name=".WeekWiseTime"/>
+        <activity android:name=".ShowAllClass" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".ClassForm" />
+        <activity android:name=".TimeTable" />
         <activity android:name=".todolist" />
         <activity android:name=".MainActivity">
             <intent-filter>
